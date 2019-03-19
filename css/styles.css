@@ -1,1 +1,15 @@
-body {text-align: center}
+body {
+  text-align: center;
+  background-color: #11789F;
+}
+
+h1{
+  font-size: 100px;
+  font-family: 'Permanent Marker', cursive;
+  color: #164556;
+}
+
+p {
+  font-size: 80px;
+  line-height: .6em;
+}
